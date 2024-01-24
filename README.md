@@ -1,8 +1,24 @@
-# React + Vite
+This project was bootstrapped with vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Preview do Projeto
 
-Currently, two official plugins are available:
+![image](https://github.com/Balaaozao/iOTuBe2MP3/assets/116916925/b6a84cd5-1051-42c9-93b2-2e82bd9e7509)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Available Scripts
+In the project directory, you can run:
+
+npm install
+Instal All dependencies in this project
+
+npm run dev
+Runs the app in the development mode.
+Open http://127.0.0.1:5173 to view it in the browser.
+
+Links:
+rapidApi - https://rapidapi.com/ytjar/api/youtube-mp36/
+vite - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+google font - https://fonts.google.com/
+css gradient - https://cssgradient.io/gradient-backgrounds/
+create env variable in vite - https://vitejs.dev/guide/env-and-mode.html
+função para pegar id do youtube: url - https://stackoverflow.com/questions/3452546/how-do-i-get-the-youtube-video-id-from-a-url
